@@ -894,7 +894,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 494088250}
   m_HandleRect: {fileID: 494088249}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -1846,11 +1846,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 22409990, guid: 81154777d5417884981849c5243f6c01, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 494
+      value: 614
       objectReference: {fileID: 0}
     - target: {fileID: 22409990, guid: 81154777d5417884981849c5243f6c01, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 278
+      value: 300.5
       objectReference: {fileID: 0}
     - target: {fileID: 22409990, guid: 81154777d5417884981849c5243f6c01, type: 2}
       propertyPath: m_LocalPosition.z
@@ -2600,8 +2600,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1309819482}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 494, y: 278, z: 0}
-  m_LocalScale: {x: 1.235, y: 1.235, z: 1.235}
+  m_LocalPosition: {x: 614, y: 300.5, z: 0}
+  m_LocalScale: {x: 1.535, y: 1.535, z: 1.535}
   m_Children:
   - {fileID: 169240339}
   - {fileID: 1344775320}
@@ -2911,8 +2911,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1508574795}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 494, y: 278, z: 0}
-  m_LocalScale: {x: 1.235, y: 1.235, z: 1.235}
+  m_LocalPosition: {x: 614, y: 300.5, z: 0}
+  m_LocalScale: {x: 1.535, y: 1.535, z: 1.535}
   m_Children:
   - {fileID: 823126369}
   - {fileID: 1122427150}
@@ -3333,7 +3333,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 588159667}
   m_HandleRect: {fileID: 588159666}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
